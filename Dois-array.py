@@ -1,5 +1,5 @@
 # Array de produtos loja de cosméticos e nascimento de familiares
-produtos_loja_cosmetico = string["batom","blush","rimel"]
+produtos_loja_cosmetico = ["batom","blush","rimel"]
 anos_nascimento = [2001,1978,1996,1974]
 
 # Imprimindo os arrays
